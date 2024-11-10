@@ -1,1 +1,2 @@
 Some content for VZ.txt
+Hello, Git!
